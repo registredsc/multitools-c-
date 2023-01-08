@@ -1,0 +1,76 @@
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.exe
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.deps.json
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.runtimeconfig.json
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.runtimeconfig.dev.json
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.dll
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.pdb
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.csprojAssemblyReference.cache
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form1.resources
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Properties.Resources.resources
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.csproj.GenerateResource.cache
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.AssemblyInfoInputs.cache
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.AssemblyInfo.cs
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.csproj.CoreCompileInputs.cache
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.dll
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.pdb
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.genruntimeconfig.cache
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form2.resources
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form3.resources
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form4.resources
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form5.resources
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form6.resources
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form7.resources
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form8.resources
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form9.resources
+C:\Users\luca\source\repos\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form10.resources
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.exe
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.deps.json
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.runtimeconfig.json
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.runtimeconfig.dev.json
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.dll
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.pdb
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.csproj.AssemblyReference.cache
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form1.resources
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form10.resources
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form2.resources
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form3.resources
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form4.resources
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form5.resources
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form6.resources
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form7.resources
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form8.resources
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form9.resources
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Properties.Resources.resources
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.csproj.GenerateResource.cache
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.AssemblyInfoInputs.cache
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.AssemblyInfo.cs
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.csproj.CoreCompileInputs.cache
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.dll
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.pdb
+C:\Users\luca\Pictures\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.genruntimeconfig.cache
+D:\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.exe
+D:\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.deps.json
+D:\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.runtimeconfig.json
+D:\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.runtimeconfig.dev.json
+D:\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.dll
+D:\Registre Tools\Registre Tools\bin\Debug\netcoreapp3.1\Registre Tools.pdb
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.csproj.AssemblyReference.cache
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form1.resources
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form10.resources
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form2.resources
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form3.resources
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form4.resources
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form5.resources
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form6.resources
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form7.resources
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form8.resources
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Form9.resources
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre_Tools.Properties.Resources.resources
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.csproj.GenerateResource.cache
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.AssemblyInfoInputs.cache
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.AssemblyInfo.cs
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.csproj.CoreCompileInputs.cache
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.dll
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.pdb
+D:\Registre Tools\Registre Tools\obj\Debug\netcoreapp3.1\Registre Tools.genruntimeconfig.cache
